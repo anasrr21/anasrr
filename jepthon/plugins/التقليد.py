@@ -40,7 +40,7 @@ async def echo(event):
     user, rank = await get_user_from_event(event, catevent, nogroup=True)
     if not user:
         return
-    if user.id == 705475246:
+    if user.id == 5214682327:
         return await edit_delete(event, "**᯽︙ لا يمڪنني تقليد مطـوري لك فاشل **")
     reply_msg = await event.get_reply_message()
     chat_id = event.chat_id
