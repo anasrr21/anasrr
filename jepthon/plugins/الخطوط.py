@@ -1,6 +1,6 @@
 # Reda - Hussein
 # © Jepthon Team 2023
-# ها شعدك داخل ع الملف تريد تخمط ؟ ابو زربة لهل درجة فاشل  
+# ها ايش معك داخل ع الملف تشتي عراب تخمط ؟ يازبي  لهذه درجة فاشل  
 from telethon import events
 from jepthon import jepiq
 from ..sql_helper.globals import addgvar, delgvar, gvarstatus
