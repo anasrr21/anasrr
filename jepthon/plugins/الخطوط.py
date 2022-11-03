@@ -1,5 +1,5 @@
-# Reda - Hussein
-# © Jepthon Team 2023
+# Reda - SerThon
+# © SerThon Team 2023
 # ها ايش معك داخل ع الملف تشتي عراب تخمط ؟ يازبي  لهذه درجة فاشل  
 from telethon import events
 from jepthon import jepiq
