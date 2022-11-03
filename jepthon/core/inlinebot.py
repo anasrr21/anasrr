@@ -228,7 +228,7 @@ async def inline_handler(event):  # sourcery no-metrics
             buttons = [
                 (
                     Button.inline("الحـالة ⚒️", data="stats"),
-                    Button.url(" Jepthon UsᴇʀBoᴛ", "https://t.me/Jepthon"),
+                    Button.url(" Jepthon UsᴇʀBoᴛ", "https://t.me/aaddr2"),
                 )
             ]
             ALIVE_PIC = gvarstatus("ALIVE_PIC")
