@@ -53,7 +53,7 @@ def ibuild_keyboard(buttons):
 
 
 def main_menu():
-    text = f"**- [سـورس سيرثون](https://t.me/JepThon)\
+    text = f"**- [سـورس سيرثون](https://t.me/aaddr2)\
         \n المسـاعد\
         \n\
         \n◽ سيرثون لـ {mention}**"
@@ -571,12 +571,12 @@ async def inline_handler(event):  # sourcery no-metrics
             url=ROZLOGO, size=0, mime_type="image/jpeg", attributes=[]
         )
         text, msg_entities = await event.client._parse_message_text(
-            "**[بـوت سيرثون 🧸♥](https://t.me/Jepthon)**\
+            "**[بـوت سيرثون 🧸♥](https://t.me/aaddr2)**\
             \n\
             \n❤ سيرثون هـو بـوت بسـيط يدخـل الـى حسـابك لجعـلك تتحـكم به معـ اوامـر معينـة.\
             \n\
             \n**اذا كـنت تـرغب بتـنصيـب السـورس عـلى حسـابك ,\
-            \n🐾 تعال الـى [كروب المسـاعدة](https://t.me/Jepthon1)!**",
+            \n🐾 تعال الـى [كروب المسـاعدة](https://t.me/aaddr2)!**",
             "md",
         )
         result = types.InputBotInlineResult(
