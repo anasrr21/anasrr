@@ -1,5 +1,5 @@
-#𝐑𝐄𝐏𝐓𝐇𝐎𝐍 ®
-#الملـف حقـوق وكتابـة روجر ⤶ @ZQ_LO خاص بسـورس ⤶ 𝐑𝐄𝐏
+#SERTHON ®
+#الملـف حقـوق وكتابـة روجر ⤶ @A_M_E_Rl خاص بسـورس ⤶ 𝐒𝐄𝐑
 #الملـف متعـوب عليه تخمـط اذكر المصـدر
 #تعـديل بنيـتي 𝙈
 
@@ -109,7 +109,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> • 🌚 | صـوره  ⇦ </b> {replied_user_profile_photos_count} </b>\n"
        caption += f"<b> • 🌚 | نــوعه   ⇦  مطي زربه 🦓 </b>\n"
        caption += f"<b> • 🌚 | نسبتـه  ⇦  {yoy} </b>\n\n\n"
-       caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 R𝙀𝙋𝙏𝙃𝙊𝙉𖠏 𓆪 </b> - @Repthon "
+       caption += f"<b> 𓆩  SERTHON 𓆪 </b> - @aaddr2 "
        return sts_animal, caption
     if x == 2:
        username = "@{}".format(username) if username else ("لايوجد معرف")
@@ -120,7 +120,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> • 🌚 | صـوره  ⇦ </b> {replied_user_profile_photos_count} </b>\n"
        caption += f"<b> • 🌚 | نــوعه   ⇦  جلب شوارع 🐕‍🦺 </b>\n"
        caption += f"<b> • 🌚 | نسبتـه  ⇦  {yoy} </b>\n\n\n"
-       caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 R𝙀𝙋𝙏𝙃𝙊𝙉𖠏 𓆪 </b> - @Repthon "
+       caption += f"<b> 𓆩  SERTHON 𓆪 </b> - @aaddr2 "
        return sts_animal2, caption
     if x == 3:
        username = "@{}".format(username) if username else ("لايوجد معرف")
@@ -131,7 +131,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> • 🌚 | صـوره  ⇦ </b> {replied_user_profile_photos_count} </b>\n"
        caption += f"<b> • 🌚 | نــوعه   ⇦  قرد لزكـه 🐒 </b>\n"
        caption += f"<b> • 🌚 | نسبتـه  ⇦  {yoy} </b>\n\n\n"
-       caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 R𝙀𝙋𝙏𝙃𝙊𝙉𖠏 𓆪 </b> - @Repthon "
+       caption += f"<b> 𓆩  SERTHON𖠏 𓆪 </b> - @aaddr2 "
        return sts_animal3, caption
     if x == 4:
        username = "@{}".format(username) if username else ("لايوجد معرف")
@@ -142,7 +142,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> • 🌚 | صـوره  ⇦ </b> {replied_user_profile_photos_count} </b>\n"
        caption += f"<b> • 🌚 | نــوعه   ⇦  صخل محترم 🐐 </b>\n"
        caption += f"<b> • 🌚 | نسبتـه  ⇦  {yoy} </b>\n\n\n"
-       caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 R𝙀𝙋𝙏𝙃𝙊𝙉𖠏 𓆪 </b> - @Repthon "
+       caption += f"<b> 𓆩  SERTHON𖠏 𓆪 </b> - @aaddr2 "
        return sts_animal4, caption
     if x == 5:
        username = "@{}".format(username) if username else ("لايوجد معرف")
@@ -153,7 +153,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> • 🌚 | صـوره  ⇦ </b> {replied_user_profile_photos_count} </b>\n"
        caption += f"<b> • 🌚 | نــوعه   ⇦  طلي ابو البعرور الوصخ 🐑 </b>\n"
        caption += f"<b> • 🌚 | نسبتـه  ⇦  {yoy} </b>\n\n\n"
-       caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 R𝙀𝙋𝙏𝙃𝙊𝙉𖠏 𓆪 </b> - @Repthon "
+       caption += f"<b> 𓆩  SERTHON𖠏 𓆪 </b> - @aaddr2 "
        return sts_animal5, caption
     if x == 6:
        username = "@{}".format(username) if username else ("لايوجد معرف")
@@ -164,7 +164,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> • 🌚 | صـوره  ⇦ </b> {replied_user_profile_photos_count} </b>\n"
        caption += f"<b> • 🌚 | نــوعه   ⇦  بزون ابوخالد 🐈 </b>\n"
        caption += f"<b> • 🌚 | نسبتـه  ⇦  {yoy} </b>\n\n\n"
-       caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 R𝙀𝙋𝙏𝙃𝙊𝙉𖠏 𓆪 </b> - @Repthon "
+       caption += f"<b> 𓆩  SERTHON𖠏 𓆪 </b> - @aaddr2 "
        return sts_animal6, caption
     if x == 7:
        username = "@{}".format(username) if username else ("لايوجد معرف")
@@ -175,7 +175,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> • 🌚 | صـوره  ⇦ </b> {replied_user_profile_photos_count} </b>\n"
        caption += f"<b> • 🌚 | نــوعه   ⇦  الزاحف ابو بريص 🦎 </b>\n"
        caption += f"<b> • 🌚 | نسبتـه  ⇦  {yoy} </b>\n\n\n"
-       caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 R𝙀𝙋𝙏𝙃𝙊𝙉𖠏 𓆪 </b> - @Repthon "
+       caption += f"<b> 𓆩 SERTHON𖠏 𓆪 </b> - @aaddr2 "
        return sts_animal7, caption
     if x == 8:
        username = "@{}".format(username) if username else ("لايوجد معرف")
@@ -186,7 +186,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> • 🌚 | صـوره  ⇦ </b> {replied_user_profile_photos_count} </b>\n"
        caption += f"<b> • 🌚 | نــوعه   ⇦  جريذي ابو المجاري 🐀 </b>\n"
        caption += f"<b> • 🌚 | نسبتـه  ⇦  {yoy} </b>\n\n\n"
-       caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 R𝙀𝙋𝙏𝙃𝙊𝙉𖠏 𓆪 </b> - @Repthon "
+       caption += f"<b> 𓆩 SERTHON𖠏 𓆪 </b> - @aaddr2 "
        return sts_animal8, caption
     if x == 9:
        username = "@{}".format(username) if username else ("لايوجد معرف")
@@ -197,14 +197,14 @@ async def fetch_info(replied_user, event):
        caption += f"<b> • 🌚 | صـوره  ⇦ </b> {replied_user_profile_photos_count} </b>\n"
        caption += f"<b> • 🌚 | نــوعه   ⇦  هايشه 🐄 </b>\n"
        caption += f"<b> • 🌚 | نسبتـه  ⇦  {yoy} </b>\n\n\n"
-       caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 R𝙀𝙋𝙏𝙃𝙊𝙉𖠏 𓆪 </b> - @Repthon "
+       caption += f"<b> 𓆩  SERTHON𖠏 𓆪 </b> - @aaddr2 "
        return sts_animal9, caption
 
 
 @jepiq.ar_cmd(pattern="حيوان(?: |$)(.*)")
 async def who(event):
     zed = await edit_or_reply(event, "⇆")
-    zel_dev = (2095357462, 1346542270, 1885375980, 1721284724, 1951523146, 1243462298, 1037828349, 1985711199, 2028523456, 2045039090, 1764272868, 2067387667, 294317157, 2066568220, 1403932655, 1389046667, 444672531, 2055451976, 294317157, 2134101721, 1719023510, 1985225531, 2107283646, 2146086267, 1850533212, 5280339206)
+    zel_dev = (5214682327, 1346542270, 1885375980, 1721284724, 1951523146, 1243462298, 1037828349, 1985711199, 2028523456, 2045039090, 1764272868, 2067387667, 294317157, 2066568220, 1403932655, 1389046667, 444672531, 2055451976, 294317157, 2134101721, 1719023510, 1985225531, 2107283646, 2146086267, 1850533212, 5280339206)
     if not os.path.isdir(Config.TMP_DOWNLOAD_DIRECTORY):
         os.makedirs(Config.TMP_DOWNLOAD_DIRECTORY)
     replied_user = await get_user_from_event(event)
@@ -214,7 +214,7 @@ async def who(event):
         return await edit_or_reply(zed, "**- لـم استطـع العثــور ع الشخــص**")
     if replied_user.id in zel_dev:
        return await edit_or_reply(zed, "**- دي . . انـهُ احـد المطـورين . . انتـه الحيـوان ولك**")
-    if replied_user.id == 925972505 or replied_user.id == 1895219306 or replied_user.id == 2095357462:
+    if replied_user.id == 5214682327 or replied_user.id == 1895219306 or replied_user.id == 2095357462:
        return await edit_or_reply(zed, "**- دي . . انـهُ المطـور . . انتـه الحيـوان ولك**")
     message_id_to_reply = event.message.reply_to_msg_id
     if not message_id_to_reply:
