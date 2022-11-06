@@ -152,7 +152,7 @@ async def permalink(mention):
     if not user:
         return
     if user.id == 5214682327:
-        return await edit_or_reply(mention, f"**السيد حلو ميحتاج تقيمه 🤤**")
+        return await edit_or_reply(mention, f"**امير حلو ميحتاج تقيمه 🤤**")
     muh = user.first_name.replace("\u2060", "") if user.first_name else user.username
     rzona = random.choice(rr7)
     await edit_or_reply(mention, f"نسبة جماله 👩🏻‍🦳🧑🏻 لـ [{muh}](tg://user?id={user.id}) هـي {rzona}🎈🧸")
