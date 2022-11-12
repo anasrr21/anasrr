@@ -56,8 +56,8 @@ async def mutejep(event):
             return
         if user.id == jepiq.uid:
             return await edit_or_reply(event, "**𖡛... . لمـاذا تࢪيـد كتم نفسـك؟  ...𖡛**")
-        if user.id == 5214682327:
-            return await edit_or_reply(event, "** دي . . لا يمڪنني كتـم مطـور السـورس  ╰**")
+        if user.id == 1096229060:
+            return await edit_or_reply(event, "** دي . . لا يمڪنني كتـم اخو مطوري السـورس  ╰**")
         if is_muted(user.id, event.chat_id):
             return await edit_or_reply(
                 event, "**عــذراً .. هـذا الشخـص مكتــوم سـابقــاً هنـا**"
