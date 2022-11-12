@@ -298,6 +298,6 @@ async def _(event):
     await event.edit(
         "`Tesla Wireless Charging (beta) Completed...\
         \nDevice Detected: Nokia 1100 (Space Grey Varient)\
-        \nnBattery Percentage:` [100%](https://telegra.ph/file/a45aa7450c8eefed599d9.mp4) ",
+        \nnBattery Percentage:` [100%](https://telegra.ph/file/e5b3c2dff6416c9d3549c.mp4) ",
         link_preview=True,
     )
