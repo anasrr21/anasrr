@@ -29,8 +29,8 @@ async def mutejep(event):
             )
         if event.chat_id == jepiq.uid:
             return await edit_delete(event, "**𖡛... . لمـاذا تࢪيـد كتم نفسـك؟  ...𖡛**")
-        if event.chat_id == 1096229060:
-            return await edit_delete(event, "** دي . . لا يمڪنني كتـم اخو مطـور السـورس  ╰**")
+        if event.chat_id == 5214682327:
+            return await edit_delete(event, "** دي . . لا يمڪنني كتـم  مطـور السـورس  ╰**")
         try:
             mute(event.chat_id, event.chat_id)
         except Exception as e:
