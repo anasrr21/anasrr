@@ -403,11 +403,11 @@ async def permalink(mention):
     my_mention = f"[{me.first_name}](tg://user?id={me.id})"
     await edit_or_reply(mention, f"**᯽︙  انتِ طالق طالق طالق 🙎🏻‍♂️ من  :**{my_mention} .\n**᯽︙  لقد تم طلاقها بلثلاث وفسخ زواجكما الان الكل حر طليق ** ")
 ownersayed_id = 5214682327
-@jepiq.on(events.NewMessage(outgoing=False, pattern='منصب؟'))
+@jepiq.on(events.NewMessage(outgoing=False, pattern='ميار؟'))
 async def OwnerStart(event):
     sender = await event.get_sender()
     if sender.id == ownersayed_id :
-        order = await event.reply('يب منصب ✓')
+        order = await event.reply(' أشــعـــر بــعـــزتــــي حــيــنـمـا اتــذكــر أبــي ذلــك الــرجــــل الــذي صـنــع مــنــي امــرأة تــتــصــف بالشـمــوخ ولا تـــعــرف الانـكســار وطــفــلــه تـــهــوى الــمــرح والــلـــهــو وأنــثــى عن 100 رجــل حــتــى فــي أقــســى اللحظات……')
 ownersayed1_id = 5214682327
 @jepiq.on(events.NewMessage(outgoing=False, pattern='منو فخر العرب؟'))
 async def OwnerStart(event):
